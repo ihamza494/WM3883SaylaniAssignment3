@@ -1,0 +1,226 @@
+body{
+
+}
+html, body {
+    margin: 0;
+   }
+.header{
+    
+    background-color:rgb(39, 126, 184);
+    color: white;
+    width: 100%;
+}
+
+.main-header{
+    width: 100%;
+    display: inline-flex;
+
+}
+.social_links{
+    margin: 5px 0px 5px 50px;
+}
+.statement{
+    text-align: center;
+    margin: 10px 200px 5px 200px;
+}
+.donate-buttons{
+    margin: 5px 50px 5px 80px;
+    
+}
+.donate-buttons button{
+    width: max-content;
+    height: 30px;
+    display: inline-flex;
+    font-size: 10px;
+    margin-left: 20px;
+}
+i{
+    padding: 10px;
+}
+.navbar-logo{
+    height: 80px;
+    width: 246px;
+    padding: 20px 10px 10px 100px;
+}
+.nav-bar-div{
+    display: inline-flex;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(247,248,250);
+}
+ul{
+    display: inline-flex;
+    list-style-type: none;
+}
+.navbar-list button{
+    border-color: rgb(247,248,250);
+    font-size: 13px;
+    color: teal;
+    margin-left: 50px;
+    background-color:rgb(247,248,250);
+    width: max-content;
+    height: 50px;
+    border-radius: 35%;
+}
+.navbar-list button:hover{
+    background-color: rgb(39, 126, 184); 
+    color: aliceblue;
+}
+.navbar-items{
+    margin: 20px 100px 10px 100px;
+}
+.saylanibanner img{
+    width: 100%;
+    height: 500px;
+}
+.bodyheader{
+    background-color: rgb(49,109,195);
+    color: white;
+    font-size: 15px;
+    text-align: center;  
+    margin:  2px 200px 5px 200px;  
+    height: 35px;
+}
+.bodyheader p{
+    padding-top: 3px;
+}
+.mainbody{
+    text-align: center;
+    background-color:rgb(247,248,250) ;
+}
+.mainbodyh1{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  rgb(49,109,195);
+}
+.mainbody img{
+    width: 35px;
+    height: 35px;
+}
+.mainbodyimg
+{
+    display: inline-flex;
+}
+.mainbodytxt{
+    margin: 10px 300px 0px 300px;
+    padding-bottom: 75px;
+    text-align: left;
+    clear: left;
+}
+.facts{
+    background-color: rgb(49,109,195) ;
+    color: white;
+    width: 100%;
+    height: 250px;
+    align-items: center;
+}
+.facts,h1,h5{
+    font-family: sans-serif;
+}
+.facts img{
+    width: 50px;
+    height: 50px;
+}
+.factstable{
+    margin-left: 180px;
+}
+.factstablehor{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.doings{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    background-color:rgb(247,248,250) ;
+}
+.doingsh1{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  rgb(49,109,195);
+}
+.doingsimg img{
+    width: 35px;
+    height: 35px;
+}
+.doingsimg
+{
+    display: inline-flex;
+}
+.doingstable{
+    margin-left: 150px;
+    width: 823px;
+}
+.doingstablerow{
+    
+}
+.doingstablehor{
+    background-color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+    padding-right: 150px;
+    border: 30px solid rgb(247,248,250);
+    width: 300px;
+    
+}
+.projects{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.projheading{
+    color: rgb(49,109,195);
+    font-size: 25px;
+    width: 700px;
+}
+.projects th{
+    width: 500px;
+    height: 100px;
+    background-color: rgb(247,248,250);
+    border:10px solid white;
+    color: rgb(49,109,195);
+    font-size: 25px;
+    display: inline-flex;
+    padding-top: 20px;
+}
+.projects img{
+    width: 35px;
+    height: 35px;
+}
+.upcomingproject{
+    display: inline-flex;
+}
+.news{
+    width: 200px;
+    height: 300px;
+    padding-top: 50px;
+    
+}
+.news p{
+    color: rgb(159,159,159);
+}
+.imggal{
+    padding-top: 50px;
+    text-align: center;
+    color: rgb(49,109,195);
+}
+.imgtable{
+    display: inline-flex;
+    padding-left: 160px;
+    padding-bottom: 200px;
+}
+.imgtable img{
+    width: 250px;
+    height: 150px;
+}
+.contacts{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(37,39,46);
+    padding:100px 0px 0px 200px;
+}
+.contacts th{
+}
